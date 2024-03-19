@@ -1,0 +1,61 @@
+{
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "emulator.emulatorPath": "/home/prafulpatnecha/Android/Sdk/emulator/",
+    "emulator.emulatorPathLinux": "/home/prafulpatnecha/Android/Sdk/emulator/",
+    "android-dev-ext.trace": true,
+    "emulator.androidColdBoot": true,
+    "android-webview-debug.adbArgs": [
+        "/home/prafulpatnecha/Android/Sdk/platform-tools/adb"
+    ],
+    "android-webview-debug.adbPath": "/home/prafulpatnecha/Android/Sdk/platform-tools/adb",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "dart.sdkPath": null,
+    "better-comments.tags": [
+        
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ]
+}
